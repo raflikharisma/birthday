@@ -77,7 +77,7 @@ x = setInterval(function() {
       fireworkShardAddedSize: 3,
       gravity: 0.1,
       upFlow: -0.1,
-      letterContemplatingWaitTime: 180,
+      letterContemplatingWaitTime: 360,
       balloonSpawnTime: 20,
       balloonBaseInflateTime: 10,
       balloonAddedInflateTime: 10,
