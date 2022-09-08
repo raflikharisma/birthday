@@ -63,11 +63,11 @@
     position: absolute;
     color: #fff;
     width: 100%;
+    content: "click me";
     left: 0;
     bottom: 0;
     font-size: 24px;
     text-align: center;
-   transform: rotate(-20deg);
     transform-origin: 0 0;
   }
   .giftbox .cover {
